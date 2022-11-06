@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jean Vilbert"
 title_separator          : "-"
 name                     : &name "Jean Vilbert"
-description              : &description "Lecturer | Department of Political Science UW-Madison"
+description              : &description "Lecturer Department of Political Science UW-Madison"
 url                      : https://jeanvilbert.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jeanvilbert.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Jean Vilbert"
   avatar           : "Headshot_Jean Vilbert.jpg"
-  bio              : "Lecturer | Department of Political Science UW-Madison"
+  bio              : "Lecturer Department of Political Science UW-Madison"
   location         : "Madison (WI)"
   employer         :
-  pubmed           : ""
-  googlescholar    : ""
+  pubmed           : 
+  googlescholar    : 
   email            : "jvilbertpere@wisc.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "jeanvilbert"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
