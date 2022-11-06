@@ -12,7 +12,7 @@ Teaching Assistant: University of Wisconsin-Madison, Department of Political Sci
 * PS 359 - American Foreign Policy (Prof. Jon Pevehouse)
 * PS 160 - Introduction to Political Theory (Prof. Howard Schweber)
 
-Instructor: Specialization Law and Humanities, “Resolution of conflicts via extrajudicial mechanisms” (Uniasselvi University, Graduate School)
+Instructor: Specialization in Law and Humanities, “Resolution of conflicts via extrajudicial mechanisms” (Uniasselvi University, Graduate School)
 
 Professor: University of West Santa Catarina, Law School
 * Criminal Law
