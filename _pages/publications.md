@@ -5,12 +5,4 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+Vilbert, Jean. "[Targeted legal reforms in Latin America: integrating foreign investment with positive distributional effects]([url](https://www.yalejournal.org/publications/targeted-legal-reforms-in-latin-america-integrating-foreign-investment-with-positive-distributional-effects))." Yale Journal for International Affairs (April 2022).
