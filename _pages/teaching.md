@@ -5,7 +5,9 @@ permalink: /teaching/
 author_profile: true
 ---
 
-Lecturer: PS 359 - American Foreign Policy (University of Wisconsin-Madison, Department of Political Science).
+Lecturer: 
+* PS 274 - Public Choice and Strategy (University of Wisconsin-Madison, Department of Political Science)
+* PS 359 - American Foreign Policy (University of Wisconsin-Madison, Department of Political Science).
 
 Teaching Assistant: University of Wisconsin-Madison, Department of Political Science
 * PS 120 - Introduction to Comparative Politcs (Prof. Steven Brooke)
