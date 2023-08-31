@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jean Vilbert"
+title                    : "About me"
 title_separator          : "-"
 name                     : &name "Jean Vilbert"
-description              : &description "Lecturer Department of Political Science UW-Madison"
+description              : &description "Ph.D. Student in Political Science at Harvard"
 url                      : https://jeanvilbert.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jeanvilbert.github.io"
