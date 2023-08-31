@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-Criminal governance and social mobilization in Brazilian favelas: A qualitative meta-analysis. IAPSS Politikon (Forthcoming).
+Vilbert, Jean. "Criminal governance and social mobilization in Brazilian favelas: A qualitative meta-analysis." IAPSS Politikon (Forthcoming).
 
 Vilbert, Jean. "Slavery under liberal constitutionalism: Imperial Brazil’s ostensible paradox." Constitutional Studies. Center for the Study of Liberal Democracy at the University of Wisconsin-Madison (Forthcoming).
 
