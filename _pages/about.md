@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a comparativist studying political economy in the Department of Government at Harvard. My substantive interests lie in institutions, constitutional-legal design, and judicial politics, with a regional focus on Latin America. Broadly, I want to understand the conditions under which institutions can promote socioeconomic development.
+I am a comparativist studying Political Economy in the Department of Government at Harvard. My substantive interests lie in institutions, constitutional-legal design, and judicial politics, with a regional focus on Latin America. Broadly, I want to understand the conditions under which institutions can promote socioeconomic development.
 
 Before joining Harvard, I completed a dual MA in International Public Affairs and Latin American Studies at the University of Wisconsin-Madison, where I worked as a lecturer in the Department of Political Science. Outside academia, I served as a judge for five years in São Paulo, Brazil.
 
