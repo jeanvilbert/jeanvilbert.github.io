@@ -7,11 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a comparativist studying Political Science in the Department of Government at Harvard. My substantive interests lie in institutions, constitutional-legal design, and judicial politics, with a regional focus on Latin America. Broadly, I investigate whether and how legal institutions and judicial activity impact socioeconomic well-being.
+I am a comparativist studying Political Science in the Department of Government at Harvard. My substantive interests lie in institutions, constitutional-legal design, and judicial politics, with a regional focus on Latin America. Broadly, I investigate whether and how legal institutions and judicial activity impact socioeconomic well-being. Methodologically, I blend deep case knowledge with techniques of causal inference and machine learning to address the intersection between Politics, Law, and Economics.
 
 Before joining Harvard, I completed a dual MA in International Public Affairs and Latin American Studies at the University of Wisconsin-Madison, where I also worked as a lecturer in the Department of Political Science. Outside academia, I served as a judge for five years in São Paulo, Brazil.
 
-During my time in court, I witnessed first-hand how efforts to yield welfare gains through legal instruments, without considering the sociopolitical landscape, tend to fall short. If societies are to solve structural problems and improve their populations’ lives, further research is needed on the interconnections between Politics, Law, and Economics. My research agenda addresses this intersection, investigating how legal and political factors interact to impact citizens’ well-being.
 
 Ongoing Projects...
 ======
