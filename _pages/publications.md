@@ -9,6 +9,6 @@ author_profile: true
 
 "[Criminal governance and social mobilization in Brazilian favelas: A qualitative meta-analysis](https://doi.org/10.22151/politikon.56.2)." IAPSS Politikon. 56 (2023).
 
-"Slavery under liberal constitutionalism: Imperial Brazil’s ostensible paradox." Constitutional Studies. Center for the Study of Liberal Democracy at the University of Wisconsin-Madison (Forthcoming).
+"Slavery under liberal constitutionalism: Imperial Brazil’s ostensible paradox." Constitutional Studies. Vol. 9 No. 1 (2024)
 
 "[Targeted legal reforms in Latin America: integrating foreign investment with positive distributional effects](https://www.yalejournal.org/publications/targeted-legal-reforms-in-latin-america-integrating-foreign-investment-with-positive-distributional-effects)." Yale Journal for International Affairs (April 2022).
